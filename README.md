@@ -70,3 +70,7 @@ Could put Cu on a GaAs wafer, cut it and look at the cross section. Then the str
 GaAs, Cu and Ti/Sb would get the wanted peaks.
 
 One possible outcome from this notebooks is an implementation in HyperSpy, but that depends on both the outcome of the thesis and the need for a QC program in HyperSpy.
+
+## Data
+
+The data in the `data/Skomedal_2022-03-23` folder is taken by Mari Skomedal as a part of her master's thesis. The data is from the SU9000 S(T)EM, where the different files on 30 kV are taken on different tilts (says Ton).
