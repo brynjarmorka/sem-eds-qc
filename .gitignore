@@ -1,3 +1,14 @@
+### project specific ###
+
+*.csv
+*.html
+*.png
+*.emsa
+
+
+
+### generale for python ###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
