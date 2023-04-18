@@ -4,6 +4,10 @@
 *.html
 *.png
 *.emsa
+*.pdf
+*.xlsx
+
+/thesis_figures/*
 
 
 
