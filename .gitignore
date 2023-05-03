@@ -7,7 +7,7 @@
 *.pdf
 *.xlsx
 
-/thesis_figures/*
+# /thesis_figures/*
 
 
 
